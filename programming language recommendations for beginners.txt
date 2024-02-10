@@ -1,0 +1,11 @@
+There are some programming languages that are especially suitable for beginners because they have relatively easy-to-understand syntax and many learning resources available. Here are several programming languages that can be an option for beginners:
+
+A.Python: Python is often recommended for beginners because of its easy-to-understand syntax and high flexibility. Python is widely used in various fields such as web development, data science, artificial intelligence, etc.
+
+B.JavaScript: JavaScript is a very important programming language for web development. Many learning resources are available and JavaScript is used to create dynamic and interactive web applications.
+
+C.HTML/CSS: While not programming languages in the traditional sense, HTML and CSS are the foundation of web development. HTML is used to create the structure of web content, while CSS is used to organize the layout and display style.
+
+D.Scratch: Scratch is a visual programming platform specially designed for beginners, especially children. This helps in understanding programming concepts without having to type the code directly.
+
+E.Java: Java is a programming language that is quite popular and widely used in software development. Although slightly more complex than Python, Java has a wealth of documentation and learning resources available.
